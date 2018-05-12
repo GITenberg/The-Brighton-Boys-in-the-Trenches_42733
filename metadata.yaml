@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4729'
     url: http://www.gutenberg.org/2009/agents/4729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42733#The-Brighton-Boys-in-the-Trenches
 gutenberg_issued: '2013-05-18'
 gutenberg_type: Text
 identifiers:
